@@ -11,6 +11,7 @@
             "downloadURLs": [
                 "https://github.com/SEED264/DirectionalBlur_s/releases/latest"
             ],
+            "directURL": "https://github.com/SEED264/DirectionalBlur_s/releases/download/v1.00/DirectionalBlur_s.zip",
             "latestVersion": "v1.00",
             "files": [
                 {
@@ -95,6 +96,7 @@
             "downloadURLs": [
                 "https://github.com/SEED264/OpticsCompensation_s/releases/latest"
             ],
+            "directURL": "https://github.com/SEED264/OpticsCompensation_s/releases/download/v1.1/OpticsCompensation_s.zip",
             "latestVersion": "v1.1",
             "files": [
                 {
@@ -170,6 +172,7 @@
             "downloadURLs": [
                 "https://github.com/SEED264/OpticsCompensation_s_Old/releases/latest"
             ],
+            "directURL": "https://github.com/SEED264/OpticsCompensation_s_Old/releases/download/v1.10/OpticsCompensation_s.zip",
             "latestVersion": "v1.10",
             "isHidden": true,
             "files": [
@@ -269,6 +272,7 @@
             "downloadURLs": [
                 "https://github.com/SEED264/PixelSorter_s/releases/latest"
             ],
+            "directURL": "https://github.com/SEED264/PixelSorter_s/releases/download/1.61/PixelSorter_s.zip",
             "latestVersion": "1.61",
             "files": [
                 {
@@ -341,6 +345,7 @@
             "downloadURLs": [
                 "https://github.com/SEED264/RadialWipe_s/releases/latest"
             ],
+            "directURL": "https://github.com/SEED264/RadialWipe_s/releases/download/v1.1/RadialWipe_s.zip",
             "latestVersion": "v1.1",
             "files": [
                 {

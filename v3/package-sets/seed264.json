@@ -9,7 +9,7 @@
             "developer": "Aodaruma",
             "dependencies": [
                 "SEED264/directionalblur",
-                "SEED264/opticscompensationold",
+                "SEED264/opticscompensation",
                 "SEED264/pixelsorter",
                 "SEED264/radialwipe"
             ],
