@@ -1,0 +1,64 @@
+{
+    "version": 3,
+    "packages": [
+      {
+          "id": "Magryllia/DataMosh",
+          "name": "データモッシュ",
+          "overview": "データモッシュ風のグリッチを生成するスクリプト",
+          "description": "データモッシュ風のグリッチを生成するスクリプト。",
+          "developer": "大城",
+          "downloadURLs": [
+              "https://drive.google.com/file/d/18Ou0YvEFNeavv7cEgx-thOxDFQdUhKhi"
+          ],
+          "pageURL": "https://twitter.com/Magryllia/status/1058682460588789761",
+          "directURL": "https://drive.google.com/uc?export=download&id=18Ou0YvEFNeavv7cEgx-thOxDFQdUhKhi",
+          "latestVersion": "1.00",
+          "files": [
+              { "filename": "script/Magryllia/データモッシュ.anm" }
+          ],
+          "releases": [
+              {
+                  "version": "1.00",
+                  "integrity": {
+                      "file": [
+                          {
+                              "target": "script/Magryllia/データモッシュ.anm",
+                              "hash": "sha384-au8U7BdJW3NpEWt/aw2S/AiPr7of8kdomCvgX2tesXxQ4MGOLoAH47P/OOgnghcF"
+                          }
+                      ]
+                  }
+              }
+          ]
+      },
+      {
+        "id": "Magryllia/DecodeError",
+        "name": "デコードエラー",
+        "overview": "画像に対しデコードエラーを模したグリッチを生成するスクリプト",
+        "description": "画像に対しデコードエラーを模したグリッチを生成するスクリプト。",
+        "developer": "大城",
+        "downloadURLs": [
+            "https://drive.google.com/file/d/1euSw8UYQU_YUYdS3zZ0BX8jMJ84RUsZ8"
+        ],
+        "pageURL": "https://twitter.com/Magryllia/status/1142388361950138368",
+        "directURL": "https://drive.google.com/uc?export=download&id=1euSw8UYQU_YUYdS3zZ0BX8jMJ84RUsZ8",
+        "latestVersion": "2019/06/22",
+        "files": [
+            { "filename": "script/Magryllia/デコードエラー.anm" }
+        ],
+        "releases": [
+            {
+                "version": "2019/06/22",
+                "integrity": {
+                    "file": [
+                        {
+                            "target": "script/Magryllia/デコードエラー.anm",
+                            "hash": "sha384-fqLzFFptDSmJbIFGBiObkSBXUGg7bASJsvaOGza6gYLjAJlM95qV4OrM8t8N4Uau"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    ]
+  }
+  

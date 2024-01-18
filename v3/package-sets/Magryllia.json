@@ -1,0 +1,23 @@
+{
+    "version": 3,
+    "packages": [
+        {
+            "id": "sets/Magryllia",
+            "name": "大城氏のスクリプト",
+            "overview": "大城氏のスクリプトセット",
+            "description": "大城氏が制作したスクリプトのセットです。",
+            "developer": "大城",
+            "dependencies": [
+                "Magryllia/DataMosh",
+                "Magryllia/DecodeError"
+            ],
+            "pageURL": "https://twitter.com/Magryllia",
+            "downloadURLs": [
+                "https://team-apm.github.io/apm-data/package-sets-description.html"
+            ],
+            "latestVersion": "2024/01/18",
+            "files": [{ "filename": "placeholder.pkgset", "isObsolete": true }]
+        }
+        
+    ]
+}
