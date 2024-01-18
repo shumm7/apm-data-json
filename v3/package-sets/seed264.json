@@ -5,7 +5,7 @@
             "id": "sets/SEED264",
             "name": "星野なたね氏のスクリプト",
             "overview": "星野なたね氏のスクリプトセット",
-            "description": "https://github.com/SEED264 にて紹介されているスクリプトのセットです。",
+            "description": "星野なたね氏が制作したスクリプトのセットです。",
             "developer": "Aodaruma",
             "dependencies": [
                 "SEED264/directionalblur",
