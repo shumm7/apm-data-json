@@ -1,0 +1,55 @@
+{
+    "version": 3,
+    "packages": [
+        {
+            "id": "sets/aodaruma",
+            "name": "Aodaruma氏のスクリプト",
+            "overview": "Aodaruma氏のスクリプトセット",
+            "description": "https://github.com/Aodaruma/Aodaruma-AviUtl-Script にて紹介されているスクリプトのセットです。",
+            "developer": "Aodaruma",
+            "dependencies": [
+                "aodaruma/3DObject",
+                "aodaruma/CameraDisplays",
+                "aodaruma/ClipFigures",
+                "aodaruma/CycleAffect",
+                "aodaruma/DelayBuffer",
+                "aodaruma/ExpCircle",
+                "aodaruma/FlatShadow",
+                "aodaruma/GradationMapRe",
+                "aodaruma/ImageLoader",
+                "aodaruma/LightAndShadow",
+                "aodaruma/LoopTextures",
+                "aodaruma/MaskingSlider",
+                "aodaruma/Modulator",
+                "aodaruma/OriginalToon",
+                "aodaruma/ParallelCamera",
+                "aodaruma/PartitionAndFlex",
+                "aodaruma/PixelSortA",
+                "aodaruma/Repeater",
+                "aodaruma/RepeatingClip",
+                "aodaruma/RikkyReflection",
+                "aodaruma/ChangeColor",
+                "aodaruma/AutoCropScaling",
+                "aodaruma/kerning",
+                "aodaruma/SphereMaterialTest",
+                "aodaruma/Trackers",
+                "aodaruma/UVmapping",
+                "aodaruma/VariableTrack",
+                "aodaruma/WipeClipping",
+                "aodaruma/CacheRM",
+                "aodaruma/EasyGlitchDoublePlus",
+                "aodaruma/DiagonalClipping",
+                "aodaruma/Parallelogram",
+                "aodaruma/CutoutBordering",
+                "aodaruma/SteppedCircular"
+            ],
+            "pageURL": "https://github.com/Aodaruma/Aodaruma-AviUtl-Script",
+            "downloadURLs": [
+                "https://team-apm.github.io/apm-data/package-sets-description.html"
+            ],
+            "latestVersion": "2024/01/18",
+            "files": [{ "filename": "placeholder.pkgset", "isObsolete": true }]
+        }
+        
+    ]
+}

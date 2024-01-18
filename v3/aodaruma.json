@@ -1,0 +1,1396 @@
+{
+    "version": 3,
+    "packages": [
+        {
+            "id": "aodaruma/3DObject",
+            "name": "3DObject",
+            "overview": "3DモデルをAviUtl上で生成できるスクリプト",
+            "description": "プリミティブな3DモデルをAviUtl上で生成できるスクリプト。3Dモデルを配置し、簡易的なモデリングを行うことができる。",
+            "developer": "Aodaruma",
+            "dependencies": [
+                "rikky/rikkyModuleMemory|rikky/rikkyModule2",
+                "respectrum93/DelayMove"
+            ],
+            "downloadURLs": [
+                "https://github.com/Aodaruma/3Dobject",
+                "https://hazumurhythm.com/a/fe3Z/"
+            ],
+            "pageURL": "https://github.com/Aodaruma/3Dobject",
+            "directURL": "https://codeload.github.com/Aodaruma/3Dobject/zip/refs/heads/main",
+            "latestVersion": "1.41",
+            "files": [
+                { "filename": "script/aodaruma/@3Dobject.anm", "archivePath": "src" }
+            ],
+            "releases": [
+                {
+                    "version": "1.41",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/@3Dobject.anm",
+                                "hash": "sha384-RNx/z0NtoZcmiZUDmY2flxDdyEPBM+Ye7Qh0uvqg31QY6dsXfvWKbkxcCYF0pPEh"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "version": "1.4",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/@3Dobject.anm",
+                                "hash": "sha384-N4vFCgIg3PpMvRHXgo/b4zsil66eKWDX7oQI+ng2EXeOGLLotwKiq5Ke2t+FWBaX"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "version": "1.3",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/@3Dobject.anm",
+                                "hash": "sha384-sP9okmk6YxZtDy7IpkrAGFJYqi/Jnqpeb5YNpI1+LWBtX6ZOiS54e2D6Ip7PAAm5"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "version": "1.2",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/@3Dobject.anm",
+                                "hash": "sha384-ZIX3ozK6bIycFyDdKZNpXwu7ctiIy3e9oW0vk7kUXTyzW3JWypaJvgTquIyuFYP9"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "version": "1.1",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/@3Dobject.anm",
+                                "hash": "sha384-dRi3PgjP8nb75mtBz2IU9hWGyzHM4+idt9r9QZGacM51C6YUtEYTDJ9F/4Q3DWCY"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "version": "1.0",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/@3Dobject.anm",
+                                "hash": "sha384-Q1qn3AtgINvFZly7BLqgLvugAis98yQVOEiVWlp6Ka3nH3TJ6UJgKb7w+4qrS/ZE"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "aodaruma/CameraDisplays",
+            "name": "CameraDisplays",
+            "overview": "カメラ制御のカメラからみた、見かけ上の座標を取得するスクリプト",
+            "description": "カメラ制御のカメラからみた、見かけ上の座標を取得するスクリプト。",
+            "developer": "Aodaruma",
+            "downloadURLs": [
+                "https://github.com/Aodaruma/CameraDisplays"
+            ],
+            "pageURL": "https://github.com/Aodaruma/CameraDisplays",
+            "directURL": "https://codeload.github.com/Aodaruma/CameraDisplays/zip/refs/heads/main",
+            "latestVersion": "1.01",
+            "files": [
+                { "filename": "script/aodaruma/@CameraDisplays.anm", "archivePath": "src" }
+            ],
+            "releases": [
+                {
+                    "version": "1.01",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/@CameraDisplays.anm",
+                                "hash": "sha384-UZwDcvQG7mXr9tJ27rQsqHYTIYs/yA7ftN1LVmxQ9ZcKClA2vjyJOrdxkUPHQsGb"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "version": "1.0",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/@CameraDisplays.anm",
+                                "hash": "sha384-I+QJUwW+IlQGW8A/8GVMOAZPPjsdi8AD0G91MV23vcF0Q52+9LVnQot4D9tyWgy6"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "aodaruma/ClipFigures",
+            "name": "ClipFigures",
+            "overview": "ランダムにクリッピングを行い、円状にランダムに配置するスクリプト",
+            "description": "ランダムにクリッピングを行い、円状にランダムに配置するスクリプト。",
+            "developer": "Aodaruma",
+            "downloadURLs": [
+                "https://github.com/Aodaruma/ClipFigures"
+            ],
+            "pageURL": "https://github.com/Aodaruma/ClipFigures",
+            "directURL": "https://codeload.github.com/Aodaruma/ClipFigures/zip/refs/heads/main",
+            "latestVersion": "1.01",
+            "files": [
+                { "filename": "script/aodaruma/@ClipFigures(ベータ版).anm", "archivePath": "src" }
+            ],
+            "releases": [
+                {
+                    "version": "1.01",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/@ClipFigures(ベータ版).anm",
+                                "hash": "sha384-RrafrwBXz7etk5JvVVuXWxzgC9sptDLE+fGM4GpVjSfQl9cdD7OCsbphtqfM/AEo"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "aodaruma/CycleAffect",
+            "name": "CycleAffect",
+            "overview": "角度に応じて様々なエフェクトが追加できるスクリプト",
+            "description": "デフォルトのスクリプトである円形配置に加えて、角度に応じて様々なエフェクトが追加できるスクリプト。",
+            "developer": "Aodaruma",
+            "downloadURLs": [
+                "https://github.com/Aodaruma/CycleAffect"
+            ],
+            "pageURL": "https://github.com/Aodaruma/CycleAffect",
+            "directURL": "https://codeload.github.com/Aodaruma/CycleAffect/zip/refs/heads/main",
+            "latestVersion": "1.01",
+            "files": [
+                { "filename": "script/aodaruma/@CycleAffect.anm", "archivePath": "src" }
+            ],
+            "releases": [
+                {
+                    "version": "1.01",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/@CycleAffect.anm",
+                                "hash": "sha384-ni719aSl+t3lDn+uHYuiLWcTc3Zx9SoRMPdmTLbBE7oe8Ia7+fsLJZZOWQDpswc8"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "aodaruma/DelayBuffer",
+            "name": "DelayBuffer",
+            "overview": "過去のオブジェクト画像を保存し、取り出すことができるスクリプト",
+            "description": "過去のオブジェクト画像を保存し、取り出すことができるスクリプト。",
+            "developer": "Aodaruma",
+            "downloadURLs": [
+                "https://github.com/Aodaruma/DelayBuffer"
+            ],
+            "pageURL": "https://github.com/Aodaruma/DelayBuffer",
+            "directURL": "https://codeload.github.com/Aodaruma/DelayBuffer/zip/refs/heads/main",
+            "latestVersion": "1.0",
+            "files": [
+                { "filename": "script/aodaruma/@BufferScripts.anm", "archivePath": "src" }
+            ],
+            "releases": [
+                {
+                    "version": "1.0",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/@BufferScripts.anm",
+                                "hash": "sha384-2OzHJj41X4e5Br/4N4JeEs/MrnO+KNSNSBhw6FpI3sOTUua787hMMAezifNva77y"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "aodaruma/ExpCircle",
+            "name": "ExpCircle",
+            "overview": "指数関数的に増大する半径の円を描画できるスクリプト",
+            "description": "指数関数的に増大する半径の円を描画できるスクリプト。",
+            "developer": "Aodaruma",
+            "downloadURLs": [
+                "https://github.com/Aodaruma/expcircle/releases"
+            ],
+            "pageURL": "https://github.com/Aodaruma/expcircle",
+            "directURL": "https://codeload.github.com/Aodaruma/expcircle/zip/refs/heads/main",
+            "latestVersion": "1.0",
+            "files": [
+                { "filename": "script/aodaruma/ExpCircle.obj" }
+            ],
+            "releases": [
+                {
+                    "version": "1.0",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/ExpCircle.obj",
+                                "hash": "sha384-HFvTtKlhTc2VYsosgugEWQJ4TZjXSD0gp9G7AwisnVZpAYx5XmWCkd9ruCbhPLTs"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "aodaruma/FlatShadow",
+            "name": "FlatShadow",
+            "overview": "フラットなロングシャドーを作ることができるスクリプト",
+            "description": "フラットなロングシャドーを作ることができるスクリプト。",
+            "dependencies": [
+                "rikky/rikkyModuleMemory|rikky/rikkyModule2"
+            ],
+            "developer": "Aodaruma",
+            "downloadURLs": [
+                "https://github.com/Aodaruma/FlatShadow/releases"
+            ],
+            "pageURL": "https://github.com/Aodaruma/FlatShadow",
+            "directURL": "https://codeload.github.com/Aodaruma/FlatShadow/zip/refs/heads/main",
+            "latestVersion": "1.11",
+            "files": [
+                { "filename": "script/aodaruma/FlatShadow.anm", "archivePath": "src" },
+                { "filename": "AviutlLongShadow.dll", "archivePath": "src" }
+            ],
+            "releases": [
+                {
+                    "version": "1.11",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/FlatShadow.anm",
+                                "hash": "sha384-wrP8w7dhRUvJzYGjSzepx8xs73hFYjQ1lyV6qiWVEhm1WZGsp35TPKThsTNwRcY0"
+                            },
+                            {
+                                "target": "AviutlLongShadow.dll",
+                                "hash": "sha384-vdqqtP4YUz8H3OkCNZmFYLrcC0ne6Sa75+NUpaof+XcWrpL9E8ttWd3hNh2jX3Mo"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "version": "1.0",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/FlatShadow.anm",
+                                "hash": "sha384-pf46f+Qi86mGFWE1dTc2RyAnixiFm+kQQcRdyXo6J9F1H4hSqtzWtxLBU5aGccKV"
+                            },
+                            {
+                                "target": "AviutlLongShadow.dll",
+                                "hash": "sha384-s4Y7AvgWPB864iGKCaMs37TbPZC7gEpAAwJjhPqTZ2dM17+HMlGyv8QeBFluth9V"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "aodaruma/GradationMapRe",
+            "name": "グラデーションマップ(Re)",
+            "overview": "画像を読み取ってグラデーションマップができるスクリプト",
+            "description": "画像を読み取ってグラデーションマップができるスクリプト。夢幻ギンガ氏のスクリプトのDLL版。",
+            "developer": "Aodaruma",
+            "dependencies": [
+                "rikky/rikkyModuleMemory|rikky/rikkyModule2"
+            ],
+            "originalDeveloper": "夢幻ギンガ",
+            "downloadURLs": [
+                "https://github.com/Aodaruma/GradationMap-Re/releases",
+                "https://hazumurhythm.com/a/8uYx/"
+            ],
+            "pageURL": "https://github.com/Aodaruma/GradationMap-Re",
+            "directURL": "https://codeload.github.com/Aodaruma/GradationMap-Re/zip/refs/heads/main",
+            "latestVersion": "1.01",
+            "files": [
+                { "filename": "script/aodaruma/@MG_GradationMap_remake.anm", "archivePath": "src" },
+                { "filename": "gradationmapping.dll", "archivePath": "src" }
+            ],
+            "releases": [
+                {
+                    "version": "1.01",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/@MG_GradationMap_remake.anm",
+                                "hash": "sha384-ClZ0E5dURGzHWVtAqqWyTDpcAQxd0mDoCevExRFi8yCy9GJ/46ROsKWjVME4/VA4"
+                            },
+                            {
+                                "target": "gradationmapping.dll",
+                                "hash": "sha384-rJjAR/L3nb11c46Sv6pqbik5AbVypNDWGpe5ZSG+Gkl82n0uFJqWkzVjgHLnQNPl"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "version": "1.0",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/@MG_GradationMap_remake.anm",
+                                "hash": "sha384-HAc/ziY7luSiUncdLlMsZsUNNKE5RXVra5KRW51PqTvdwNMAbCMkCo7589qWBb2/"
+                            },
+                            {
+                                "target": "gradationmapping.dll",
+                                "hash": "sha384-rJjAR/L3nb11c46Sv6pqbik5AbVypNDWGpe5ZSG+Gkl82n0uFJqWkzVjgHLnQNPl"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "aodaruma/ImageLoader",
+            "name": "ImageLoader",
+            "overview": "最大画像サイズより大きい画像を読み込むことができるスクリプト",
+            "description": "最大画像サイズより大きい画像を読み込むことができるスクリプト。",
+            "developer": "Aodaruma",
+            "downloadURLs": [
+                "https://github.com/Aodaruma/ImageLoader/releases"
+            ],
+            "pageURL": "https://github.com/Aodaruma/ImageLoader",
+            "directURL": "https://codeload.github.com/Aodaruma/ImageLoader/zip/refs/heads/main",
+            "latestVersion": "0.1",
+            "files": [
+                { "filename": "script/aodaruma/ImageLoader.anm", "archivePath": "src" },
+                { "filename": "imageLoader.dll", "archivePath": "src" }
+            ],
+            "releases": [
+                {
+                    "version": "0.1",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/ImageLoader.anm",
+                                "hash": "sha384-Lg9T8fkADTz2gdlB9rTm1zmXtjWpFqceRgslTEvGyatdPlKIrZxhb7swyYrSOYBz"
+                            },
+                            {
+                                "target": "imageLoader.dll",
+                                "hash": "sha384-efaWJUMxhyEjd7AhY73z1IFTSaK4zzoPCvwyvPNYp110CUlmP9HOTJKAw9KOQgx3"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "aodaruma/LightAndShadow",
+            "name": "light&shadow",
+            "overview": "ニューモフィズムを再現できるスクリプト",
+            "description": "ニューモフィズムをAviUtlで簡単に再現できるスクリプト。",
+            "developer": "Aodaruma",
+            "downloadURLs": [
+                "https://github.com/Aodaruma/LightAndShadow/releases",
+                "https://hazumurhythm.com/a/fDw9/"
+            ],
+            "pageURL": "https://github.com/Aodaruma/LightAndShadow",
+            "directURL": "https://codeload.github.com/Aodaruma/LightAndShadow/zip/refs/heads/main",
+            "latestVersion": "1.01",
+            "files": [
+                { "filename": "script/aodaruma/light&shadow.anm", "archivePath": "src" }
+            ],
+            "releases": [
+                {
+                    "version": "1.01",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/light&shadow.anm",
+                                "hash": "sha384-3OhcuAHJn4BtkdhYGsCuJ2ilPg+B7zdCSF5PlWPmdqXm1lldzxe7p2X3d1ILUL7c"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "version": "1.0",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/light&shadow.anm",
+                                "hash": "sha384-/+/l4Z58osPTIIk/uN4nabBtAEJFBPGqT/MYjYpM0F85Ic/pv1OVZmGu6B+QIkw8"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "aodaruma/LoopTextures",
+            "name": "LoopTextures",
+            "overview": "フォルダーに存在する画像を、連番画像のように読み込みループ再生するスクリプト",
+            "description": "フォルダーに存在する画像を、連番画像のように読み込みループ再生するスクリプト。",
+            "developer": "Aodaruma",
+            "downloadURLs": [
+                "https://github.com/Aodaruma/LoopTextures/releases"
+            ],
+            "dependencies": [
+                "rikky/rikkyModuleMemory|rikky/rikkyModule2"
+            ],
+            "pageURL": "https://github.com/Aodaruma/LoopTextures",
+            "directURL": "https://codeload.github.com/Aodaruma/LoopTextures/zip/refs/heads/main",
+            "latestVersion": "1.01",
+            "files": [
+                { "filename": "script/aodaruma/LoopTextures.anm", "archivePath": "src" }
+            ],
+            "releases": [
+                {
+                    "version": "1.01",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/LoopTextures.anm",
+                                "hash": "sha384-UX3DNfsfxQBO49lGeNcybOfr8V1mOkmxDUuDoV4zyxOwVw9kMNiHvqBNnygWmPc8"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "aodaruma/MaskingSlider",
+            "name": "MaskingSlider",
+            "overview": "オブジェクトからマスクを用いて切り出し、円形スライダー状に回転させるスクリプト",
+            "description": "オブジェクトからマスクを用いて切り出し、円形スライダー状に回転させるスクリプト。",
+            "developer": "Aodaruma",
+            "downloadURLs": [
+                "https://github.com/Aodaruma/MaskingSlider/releases"
+            ],
+            "pageURL": "https://github.com/Aodaruma/MaskingSlider",
+            "directURL": "https://codeload.github.com/Aodaruma/MaskingSlider/zip/refs/heads/main",
+            "latestVersion": "0.11",
+            "files": [
+                { "filename": "script/aodaruma/MaskingSlider.anm" }
+            ],
+            "releases": [
+                {
+                    "version": "0.11",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/MaskingSlider.anm",
+                                "hash": "sha384-lg80Dny2oXFG3lPy5YJJzQ7p5X+nmtz3alshz0g7f2+UBGXD5slj16r11DIM1uQO"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "version": "0.1",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/MaskingSlider_Bata.anm",
+                                "hash": "sha384-NcikQUsNbySUuAy/0MkKpQ/QW3dL7WP5hidb3M4LPEkgZTDMxNbFnSVCXzGgBOzQ"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "aodaruma/modulator",
+            "name": "Modulator",
+            "overview": "オブジェクトを波線で表現するスクリプト",
+            "description": "オブジェクトを波線で表現するスクリプト。",
+            "developer": "Aodaruma",
+            "downloadURLs": [
+                "https://github.com/Aodaruma/Modulator",
+                "https://hazumurhythm.com/a/W0rm/"
+            ],
+            "pageURL": "https://github.com/Aodaruma/Modulator",
+            "directURL": "https://codeload.github.com/Aodaruma/Modulator/zip/refs/heads/main",
+            "latestVersion": "1.0",
+            "files": [
+                { "filename": "script/aodaruma/Modulator.anm", "archivePath": "src" },
+                { "filename": "Modulator.dll", "archivePath": "src" }
+            ],
+            "releases": [
+                {
+                    "version": "1.0",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/Modulator.anm",
+                                "hash": "sha384-/2LBKP0x6iSpTSOrS22k50YY1ElGb0lKdHbaRSsClgCRkzdvW33Hp+HXU+tIQzMg"
+                            },
+                            {
+                                "target": "Modulator.dll",
+                                "hash": "sha384-yqLhhdjSVb5pNTh2QsKEP2YBt+EkmP99uj6btHfzOu52CKTm97PWvduptp4xRDGw"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "aodaruma/OriginalToon",
+            "name": "OriginalToon",
+            "overview": "輝度情報に応じてトゥーンを適用した画像を作成することができるスクリプト",
+            "description": "AviUtl内でオリジナルのトゥーン素材を保存し、輝度情報に応じてトゥーンを適用した画像を作成することができるスクリプト。",
+            "developer": "Aodaruma",
+            "downloadURLs": [
+                "https://github.com/Aodaruma/OriginalToon"
+            ],
+            "dependencies": [
+                "rikky/rikkyModuleMemory|rikky/rikkyModule2"
+            ],
+            "pageURL": "https://github.com/Aodaruma/OriginalToon",
+            "directURL": "https://codeload.github.com/Aodaruma/OriginalToon/zip/refs/heads/main",
+            "latestVersion": "1.01",
+            "files": [
+                { "filename": "script/aodaruma/@OriginalToon.anm", "archivePath": "src" }
+            ],
+            "releases": [
+                {
+                    "version": "1.01",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/@OriginalToon.anm",
+                                "hash": "sha384-METPrq3KjcSkpTFqWczYE22/1CqJ7fes6FNyMkahQVpzfAeUNPtNoB2+UVSwMJn2"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "aodaruma/ParallelCamera",
+            "name": "ParallelCamera",
+            "overview": "カメラを平行移動させることができるスクリプト",
+            "description": "カメラを平行移動させることができるスクリプト。",
+            "developer": "Aodaruma",
+            "downloadURLs": [
+                "https://github.com/Aodaruma/ParallelCamera"
+            ],
+            "pageURL": "https://github.com/Aodaruma/ParallelCamera",
+            "directURL": "https://codeload.github.com/Aodaruma/ParallelCamera/zip/refs/heads/main",
+            "latestVersion": "1.11",
+            "files": [
+                { "filename": "script/aodaruma/@ParallelCamera.cam", "archivePath": "src" },
+                { "filename": "script/aodaruma/@ParallelCameraToObj.anm", "archivePath": "src" }
+            ],
+            "releases": [
+                {
+                    "version": "1.11",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/@ParallelCamera.cam",
+                                "hash": "sha384-43HPboPe9YW8aL9o2P7JLtIB+tEorKaxGDDHauBSWj4hq6i8tFnNBgJvaVsIEoO/"
+                            },
+                            {
+                                "target": "script/aodaruma/@ParallelCameraToObj.anm",
+                                "hash": "sha384-8Go2RZpesn7SrzBpwXeeunE5a3PWNB8c3K5kgkAiStEfIfqQYhCiNsca5eVWAavk"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "version": "1.1",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/@ParallelCamera.cam",
+                                "hash": "sha384-uxhu5JomagRhj2PM98en8SCpxqZHjcV+w3FHFTOGfRAab1XnpoVHurZpYWZ2TdWo"
+                            },
+                            {
+                                "target": "script/aodaruma/@ParallelCameraToObj.anm",
+                                "hash": "sha384-E6yFF/zWqlFQMtFPkc+KjIJEdlCEj7jEfz9JgLYEIPZI13EjyifdgSEiV8Mq54Xc"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "aodaruma/PartitionAndFlex",
+            "name": "Partition & Flex",
+            "overview": "オブジェクトを分割して変形させたりするスクリプト",
+            "description": "オブジェクトをkd木のようにに変形して配置したり、オブジェクト自体を分割して変形させたりするスクリプト。",
+            "developer": "Aodaruma",
+            "downloadURLs": [
+                "https://github.com/Aodaruma/PartitionAndFlex"
+            ],
+            "pageURL": "https://github.com/Aodaruma/PartitionAndFlex",
+            "directURL": "https://codeload.github.com/Aodaruma/PartitionAndFlex/zip/refs/heads/main",
+            "latestVersion": "1.22",
+            "files": [
+                { "filename": "script/aodaruma/@Partition&Flex.anm", "archivePath": "src" }
+            ],
+            "releases": [
+                {
+                    "version": "1.22",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/@Partition&Flex.anm",
+                                "hash": "sha384-6C1gP+7/Pw7w2oj1VJWrXItmJoM49LxCV5agi2cyGEBYoo6xmZrCLbGNcFBoImkb"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "aodaruma/PixelSortA",
+            "name": "PixelSort_A",
+            "overview": "Glitchエフェクトの一種「Pixel Sort」を再現したスクリプト",
+            "description": "Glitchエフェクトの一種「Pixel Sort」を再現したスクリプト。",
+            "developer": "Aodaruma",
+            "downloadURLs": [
+                "https://github.com/Aodaruma/PixelSort_A",
+                "https://hazumurhythm.com/a/W0Zx/"
+            ],
+            "pageURL": "https://github.com/Aodaruma/PixelSort_A",
+            "directURL": "https://codeload.github.com/Aodaruma/PixelSort_A/zip/refs/heads/main",
+            "latestVersion": "1.2",
+            "files": [
+                { "filename": "script/aodaruma/PixelSort_A.anm", "archivePath": "src" },
+                { "filename": "script/aodaruma/PixelSort.anm", "archivePath": "src", "isObsolete": true }
+            ],
+            "releases": [
+                {
+                    "version": "1.2",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/PixelSort_A.anm",
+                                "hash": "sha384-/RCK7NogseI+Jf/QhUbMKNbCsLMhQOuK4LoWpL24u20iA1CEHOs324wnbZ+CLW6I"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "aodaruma/Repeater",
+            "name": "Repeater",
+            "overview": "様々な形でループ状にオブジェクトを配置するスクリプト",
+            "description": "様々な形でループ状にオブジェクトを配置するスクリプト。",
+            "developer": "Aodaruma",
+            "downloadURLs": [
+                "https://github.com/Aodaruma/Repeater"
+            ],
+            "dependencies": [
+                "rikky/rikkyModuleMemory|rikky/rikkyModule2"
+            ],
+            "pageURL": "https://github.com/Aodaruma/Repeater",
+            "directURL": "https://codeload.github.com/Aodaruma/Repeater/zip/refs/heads/main",
+            "latestVersion": "1.31",
+            "files": [
+                { "filename": "script/aodaruma/@Repeater.anm", "archivePath": "src" },
+                { "filename": "Aodaruma.lua", "archivePath": "src" }
+            ],
+            "releases": [
+                {
+                    "version": "1.31",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/@Repeater.anm",
+                                "hash": "sha384-/BbHWLLVa72ujaTA1yKSWvK9fkSqDq4Z+KYdKFQRh1rQ6ZSnQEo8UsMgzrfD8XQM"
+                            },
+                            {
+                                "target": "Aodaruma.lua",
+                                "hash": "sha384-gtqdXsDEkb8Uscjg+TKiwd/HTBf9IvGBn05MXxU8aes1qshOVES4ipk9FMxm45Yo"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "version": "1.3",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/@Repeater.anm",
+                                "hash": "sha384-bEpqMkboWw0+URLEM5ulugRbShUQezY9HtrdwvrIS37tjKpZ1Lrf1g9B0bPiWKex"
+                            },
+                            {
+                                "target": "Aodaruma.lua",
+                                "hash": "sha384-gtqdXsDEkb8Uscjg+TKiwd/HTBf9IvGBn05MXxU8aes1qshOVES4ipk9FMxm45Yo"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "version": "1.2",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/@Repeater.anm",
+                                "hash": "sha384-oGuWgQdPZXS3n/auNXxH0EWJh9tfj7kqxPuINFYbWfdtjqDH2C3F1m1P5udCiRa4"
+                            },
+                            {
+                                "target": "Aodaruma.lua",
+                                "hash": "sha384-gtqdXsDEkb8Uscjg+TKiwd/HTBf9IvGBn05MXxU8aes1qshOVES4ipk9FMxm45Yo"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "version": "1.1",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/@Repeater.anm",
+                                "hash": "sha384-w/Q/DMjQ7SytNd+0ETsBgddZiARv86vUFmtYuW4CJ6FxtUOV6eUmjOt8b/kWr1EO"
+                            },
+                            {
+                                "target": "Aodaruma.lua",
+                                "hash": "sha384-gtqdXsDEkb8Uscjg+TKiwd/HTBf9IvGBn05MXxU8aes1qshOVES4ipk9FMxm45Yo"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "version": "1.0",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/@Repeater.anm",
+                                "hash": "sha384-5pbpaUmA0NNjLv6QudgraeCx92cZsTQn3Qk1hOLasC5YnWCDZPf/KtQEJ9t4984O"
+                            },
+                            {
+                                "target": "Aodaruma.lua",
+                                "hash": "sha384-gtqdXsDEkb8Uscjg+TKiwd/HTBf9IvGBn05MXxU8aes1qshOVES4ipk9FMxm45Yo"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "aodaruma/RepeatingClip",
+            "name": "RepeatingClip",
+            "overview": "ループしながらクリッピングを行うスクリプト",
+            "description": "ループしながらクリッピングを行うスクリプト。",
+            "developer": "Aodaruma",
+            "downloadURLs": [
+                "https://github.com/Aodaruma/RepeatingClip",
+                "https://hazumurhythm.com/a/0U7r/"
+            ],
+            "pageURL": "https://github.com/Aodaruma/RepeatingClip",
+            "directURL": "https://codeload.github.com/Aodaruma/RepeatingClip/zip/refs/heads/main",
+            "latestVersion": "1.01",
+            "files": [
+                { "filename": "script/aodaruma/RepeatingClip.anm", "archivePath": "src" }
+            ],
+            "releases": [
+                {
+                    "version": "1.01",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/RepeatingClip.anm",
+                                "hash": "sha384-4ybPN7vev2lYssLwGhBdvsBfIrb6LpgwW3/86qhSHclMsJjG7b6EbuT9lemu59ix"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "version": "1.0",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/RepeatingClip.anm",
+                                "hash": "sha384-lgCLOLbV0ARNYx1VSVV5iGljwYTY+EiUG1M1EN8aU6XhkiX+njm0MDa/0TDpAA4G"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "aodaruma/RikkyReflection",
+            "name": "RikkyReflection",
+            "overview": "簡単に光源反射ができるスクリプト",
+            "description": "簡単に光源反射ができるスクリプト。",
+            "developer": "Aodaruma",
+            "downloadURLs": [
+                "https://github.com/Aodaruma/RikkyReflection"
+            ],
+            "dependencies": [
+                "rikky/rikkyModuleMemory|rikky/rikkyModule2"
+            ],
+            "pageURL": "https://github.com/Aodaruma/RikkyReflection",
+            "directURL": "https://codeload.github.com/Aodaruma/RikkyReflection/zip/refs/heads/main",
+            "latestVersion": "1.12",
+            "files": [
+                { "filename": "script/aodaruma/RikkyReflection.anm", "archivePath": "src" }
+            ],
+            "releases": [
+                {
+                    "version": "1.12",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/RikkyReflection.anm",
+                                "hash": "sha384-mqWY6tRxrj2E8BDnNPFsRAiZRfhjLXF8jHNSyBInVIOtwiTvz7uTB1MJ9YiMiW1y"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "version": "1.1",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/RikkyReflection.anm",
+                                "hash": "sha384-nD4/nS8DgdIDCdiwNnJgftMDEjCNKI9pV3+UR69HmmznTYI+9MiLSlP9aRQPW4Rt"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "version": "1.0",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/RikkyReflection.anm",
+                                "hash": "sha384-VKfI71GykueRIJaKXBHDBA+Q1BrBV0aPMoTvWy/50gVM0q8tCixh6jSFPqc2pACo"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "aodaruma/ChangeColor",
+            "name": "ChangeColor",
+            "overview": "オブジェクトの色を変化させることができるスクリプト",
+            "description": "様々な色空間や補間方法で、オブジェクトの色を変化させることができるスクリプト。",
+            "developer": "Aodaruma",
+            "downloadURLs": [
+                "https://github.com/Aodaruma/change-color/releases/tag/Release"
+            ],
+            "pageURL": "https://github.com/Aodaruma/change-color",
+            "directURL": "https://github.com/Aodaruma/change-color/releases/download/Release/ChangeColor.zip",
+            "latestVersion": "1.0",
+            "files": [
+                { "filename": "script/aodaruma/ChangeColor.anm" },
+                { "filename": "ColorSpaceInterpolation.lua" }
+            ],
+            "releases": [
+                {
+                    "version": "1.0",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/ChangeColor.anm",
+                                "hash": "sha384-w+b2iv/ofkLCTbmcH/MlQGgP9NA6HnE9Px+1FLmbwvsksCVDFlSfRDyd8t6QMsLG"
+                            },
+                            {
+                                "target": "ColorSpaceInterpolation.lua",
+                                "hash": "sha384-K9nqVbtW7neyBAkX1fMnAln0BtIsOTrZbHQbyb5peqtlLvZ8UgTfMDNyKS2wSp7s"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "aodaruma/AutoCropScaling",
+            "name": "AutoCropScaling",
+            "overview": "同じ量の画像を自動的に切り抜き・拡大するスクリプト",
+            "description": "同じ量の画像を自動的に切り抜き・拡大するスクリプト。",
+            "developer": "Aodaruma",
+            "downloadURLs": [
+                "https://github.com/Aodaruma/AutoCropScaling/releases/tag/Release"
+            ],
+            "pageURL": "https://github.com/Aodaruma/AutoCropScaling",
+            "directURL": "https://github.com/Aodaruma/AutoCropScaling/archive/refs/tags/Release.zip",
+            "latestVersion": "1.0",
+            "files": [
+                { "filename": "script/aodaruma/AutoCropScaling.anm", "archivePath": "src" }
+            ],
+            "releases": [
+                {
+                    "version": "1.0",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/AutoCropScaling.anm",
+                                "hash": "sha384-ejBlcnAnUom/G7cHNx4nXNUK+LadedWouXFLteHeL4DGP0wTI+sAU2UOWSvVT9o/"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "aodaruma/kerning",
+            "name": "kerning",
+            "overview": "アンカーを用いて文字を移動させることができるスクリプト",
+            "description": "アンカーを用いて文字を移動させることができるスクリプト。",
+            "developer": "Aodaruma",
+            "downloadURLs": [
+                "https://github.com/Aodaruma/Aodaruma-AviUtl-Script"
+            ],
+            "dependencies": [
+                "rikky/rikkyModuleMemory|rikky/rikkyModule2"
+            ],
+            "pageURL": "https://github.com/Aodaruma/Aodaruma-AviUtl-Script/tree/main/scripts/kerning",
+            "directURL": "https://codeload.github.com/Aodaruma/Aodaruma-AviUtl-Script/zip/refs/heads/main",
+            "latestVersion": "0.1",
+            "files": [
+                { "filename": "script/aodaruma/kerning.anm", "archivePath": "scripts/kerning" }
+            ],
+            "releases": [
+                {
+                    "version": "0.1",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/kerning.anm",
+                                "hash": "sha384-ejBlcnAnUom/QZlIWxnxX2pGTX5Sjqx0yaFoQcMTJEum3e1prfpzDa5rrdoU95igmPDAaoM7EPx3"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "aodaruma/SphereMaterialTest",
+            "name": "SphereMaterialTest",
+            "overview": "光源反射関数を試用できるスクリプト",
+            "description": "rikky_moduleの機能の一つである光源反射関数を試用できるスクリプト。",
+            "developer": "Aodaruma",
+            "downloadURLs": [
+                "https://github.com/Aodaruma/Aodaruma-AviUtl-Script"
+            ],
+            "dependencies": [
+                "rikky/rikkyModuleMemory|rikky/rikkyModule2"
+            ],
+            "pageURL": "https://github.com/Aodaruma/Aodaruma-AviUtl-Script/tree/main/scripts/SphereMaterialTest",
+            "directURL": "https://codeload.github.com/Aodaruma/Aodaruma-AviUtl-Script/zip/refs/heads/main",
+            "latestVersion": "1.0",
+            "files": [
+                { "filename": "script/aodaruma/@SphereMaterialTest.anm", "archivePath": "scripts/SphereMaterialTest" }
+            ],
+            "releases": [
+                {
+                    "version": "1.0",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/@SphereMaterialTest.anm",
+                                "hash": "sha384-9jISpFgKKnisw/bWdAos1EXx8RdAn3Ymh6ylBa8r2G56ocgLH8noTiibL6Nb6dPB"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "aodaruma/Trackers",
+            "name": "Trackers",
+            "overview": "トラックバー関連のスクリプト",
+            "description": "トラックバー関連のスクリプト。",
+            "developer": "Aodaruma",
+            "downloadURLs": [
+                "https://github.com/Aodaruma/Aodaruma-AviUtl-Script"
+            ],
+            "pageURL": "https://github.com/Aodaruma/Aodaruma-AviUtl-Script/tree/main/scripts/Trackers",
+            "directURL": "https://codeload.github.com/Aodaruma/Aodaruma-AviUtl-Script/zip/refs/heads/main",
+            "latestVersion": "1.01",
+            "files": [
+                { "filename": "script/aodaruma/@AodTrackers.tra", "archivePath": "scripts/Trackers" }
+            ],
+            "releases": [
+                {
+                    "version": "1.01",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/@AodTrackers.tra",
+                                "hash": "sha384-NhmiCOiOaEMSVdVwIs2UjZc7BXZW8+Hcm8TX9SRjfjXa8UH33zWUgbktkZmAuvqd"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "aodaruma/UVmapping",
+            "name": "UVmapping",
+            "overview": "UVマッピングをAviUtl上で行うことができるスクリプト",
+            "description": "UVマッピングをAviUtl上で行うことができるスクリプト。",
+            "developer": "Aodaruma",
+            "downloadURLs": [
+                "https://github.com/Aodaruma/Aodaruma-AviUtl-Script"
+            ],
+            "pageURL": "https://github.com/Aodaruma/Aodaruma-AviUtl-Script/tree/main/scripts/UVmapping(beta)",
+            "directURL": "https://codeload.github.com/Aodaruma/Aodaruma-AviUtl-Script/zip/refs/heads/main",
+            "latestVersion": "0.21",
+            "files": [
+                { "filename": "script/aodaruma/@UVmapping_tester.anm", "archivePath": "scripts/UVmapping(beta)" },
+                { "filename": "script/aodaruma/@UVmapping_old.anm", "archivePath": "scripts/UVmapping(beta)" },
+                { "filename": "UVmapping.dll", "archivePath": "scripts/UVmapping(beta)" }
+            ],
+            "releases": [
+                {
+                    "version": "0.21",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/@UVmapping_tester.anm",
+                                "hash": "sha384-tEqrQ0Yg0s9ZKT2Gw1mlP2GqWtrKEatYab32GUAfsDvlG9/FXhUDyFLsppjaYMEa"
+                            },
+                            {
+                                "target": "script/aodaruma/@UVmapping_old.anm",
+                                "hash": "sha384-oCf6krGRps9QT1dKB+ma5P2sgnVYNolZGbDs1gdoQtuTzZ2T2ofKdGmn7g61M44u"
+                            },
+                            {
+                                "target": "UVmapping.dll",
+                                "hash": "sha384-bVTDkS9FzeCt8t4OwpYIZnXxUWpBHBA0VPR3ceXHKqnehw5JBJodnqKxxk653ThX"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "aodaruma/VariableTrack",
+            "name": "VariableTrack",
+            "overview": "トラックバーの値を格納し、変数などで活用できるスクリプト",
+            "description": "トラックバーの値を格納し、変数などで活用できるスクリプト。",
+            "developer": "Aodaruma",
+            "downloadURLs": [
+                "https://github.com/Aodaruma/Aodaruma-AviUtl-Script"
+            ],
+            "pageURL": "https://github.com/Aodaruma/Aodaruma-AviUtl-Script/tree/main/scripts/VariableTrack",
+            "directURL": "https://codeload.github.com/Aodaruma/Aodaruma-AviUtl-Script/zip/refs/heads/main",
+            "latestVersion": "1.01",
+            "files": [
+                { "filename": "script/aodaruma/VariableTrack.anm", "archivePath": "scripts/VariableTrack" }
+            ],
+            "releases": [
+                {
+                    "version": "1.01",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/VariableTrack.anm",
+                                "hash": "sha384-LUk+vl4eq0hJDewNQn9uqxlMLhq9tVkxEk+SABJFmZwtJ+UAkyCBG5Yjhzmt/PDq"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "aodaruma/WipeClipping",
+            "name": "WipeClipping",
+            "overview": "オブジェクトをリニアワイプさせることができるスクリプト",
+            "description": "オブジェクトを簡単かつ詳細にリニアワイプさせることができるスクリプト。",
+            "developer": "Aodaruma",
+            "downloadURLs": [
+                "https://github.com/Aodaruma/Aodaruma-AviUtl-Script"
+            ],
+            "pageURL": "https://github.com/Aodaruma/Aodaruma-AviUtl-Script/tree/main/scripts/WipeClipping",
+            "directURL": "https://codeload.github.com/Aodaruma/Aodaruma-AviUtl-Script/zip/refs/heads/main",
+            "latestVersion": "1.11",
+            "files": [
+                { "filename": "script/aodaruma/@WipeClipping.anm", "archivePath": "scripts/WipeClipping" }
+            ],
+            "releases": [
+                {
+                    "version": "1.11",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/@WipeClipping.anm",
+                                "hash": "sha384-Ts9aJoZ5xMF55m1MkT4wd+mAtv6QMFtBo8HPPOMLE3OioLT9sQR5Cy2rDqsmrWYP"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "version": "1.1",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/@WipeClipping.anm",
+                                "hash": "sha384-EF9rUt0XS4XgpbMsLa5fv/q3aQT66pK5kjS7INwoMEH4k2coR9cOu/2322bZdlXA"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "version": "1.0",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/@WipeClipping.anm",
+                                "hash": "sha384-rcAqOwxlWNwo9k9n8+uh4zSNrYx58lUH6NYcp/CNpN6uXE2rbgqNhvobTF5Rxy5I"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "aodaruma/CacheRM",
+            "name": "キャッシュ保存RM",
+            "overview": "オブジェクトを画像として一時的に保存するスクリプト",
+            "description": "オブジェクトを画像として一時的に保存するスクリプト。",
+            "developer": "Aodaruma",
+            "downloadURLs": [
+                "https://github.com/Aodaruma/Aodaruma-AviUtl-Script"
+            ],
+            "pageURL": "https://github.com/Aodaruma/Aodaruma-AviUtl-Script/tree/main/scripts/キャッシュ保存RM",
+            "directURL": "https://codeload.github.com/Aodaruma/Aodaruma-AviUtl-Script/zip/refs/heads/main",
+            "latestVersion": "1.01",
+            "files": [
+                { "filename": "script/aodaruma/@キャッシュRM.anm", "archivePath": "scripts/キャッシュ保存RM" },
+                { "filename": "script/aodaruma/@キャッシュRM.obj", "archivePath": "scripts/キャッシュ保存RM" }
+            ],
+            "releases": [
+                {
+                    "version": "1.01",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/@キャッシュRM.anm",
+                                "hash": "sha384-1MNa/xrO/3vN/Qm4qO/BR1nYljiC41zgoNERLynVZlxrQbb+ep1cavcaZ+2UuIn0"
+                            },
+                            {
+                                "target": "script/aodaruma/@キャッシュRM.obj",
+                                "hash": "sha384-fVgsRQozeOVTIHvPkT94aROWJFeEt17o8dpZF2zpb5uKkQ1RmOJi53KDyOqyv+30"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "version": "0.1",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/@キャッシュRM.anm",
+                                "hash": "sha384-kk9o2UhknF6F4vTMVJ5fXXzMwSjAzsAhr1Y9QW4gU4BrH6dh5bVm4JAtLTYF56eB"
+                            },
+                            {
+                                "target": "script/aodaruma/@キャッシュRM.obj",
+                                "hash": "sha384-W2VgW4lOtlk+RzYHYTuyxCkn+68dDHBDBzrKl0EL6ieD1c6FejMYHQerSsiRoT9I"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "aodaruma/EasyGlitchDoublePlus",
+            "name": "簡易Glitch++(派生)",
+            "overview": "Nu're氏の簡易Glitch+の改造・派生スクリプト",
+            "description": "Nu're氏の簡易Glitch+の改造・派生スクリプト。",
+            "developer": "Aodaruma",
+            "originalDeveloper": "Nu're",
+            "downloadURLs": [
+                "https://github.com/Aodaruma/Aodaruma-AviUtl-Script"
+            ],
+            "pageURL": "https://github.com/Aodaruma/Aodaruma-AviUtl-Script/tree/main/scripts/簡易Glitch++(派生)",
+            "directURL": "https://codeload.github.com/Aodaruma/Aodaruma-AviUtl-Script/zip/refs/heads/main",
+            "latestVersion": "1.01",
+            "files": [
+                { "filename": "script/aodaruma/簡易Glitch++(派生).anm", "archivePath": "scripts/簡易Glitch++(派生)" }
+            ],
+            "releases": [
+                {
+                    "version": "1.01",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/簡易Glitch++(派生).anm",
+                                "hash": "sha384-juE5vR4UnJnyhDGV2cuK3rsWRyJE0fFJISrkpKlROya8I94JDKXFsdcQvllYaWr2"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "version": "1.0",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/簡易Glitch++(派生).anm",
+                                "hash": "sha384-UiyWr8cf6vA68/0rPYjxtXY0CaKUbjEU/iXVyGHkO5kocrsFl5qBno1M6Dbt8Dhs"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "aodaruma/DiagonalClipping",
+            "name": "対角線クリッピング",
+            "overview": "対角線に対してクリッピングを行うスクリプト",
+            "description": "オブジェクトのバウンディボックスの対角線に対してクリッピングを行うスクリプト。",
+            "developer": "Aodaruma",
+            "downloadURLs": [
+                "https://github.com/Aodaruma/Aodaruma-AviUtl-Script"
+            ],
+            "pageURL": "https://github.com/Aodaruma/Aodaruma-AviUtl-Script/tree/main/scripts/対角線クリッピング",
+            "directURL": "https://codeload.github.com/Aodaruma/Aodaruma-AviUtl-Script/zip/refs/heads/main",
+            "latestVersion": "1.01",
+            "files": [
+                { "filename": "script/aodaruma/対角線クリッピング.anm", "archivePath": "scripts/対角線クリッピング" }
+            ],
+            "releases": [
+                {
+                    "version": "1.01",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/対角線クリッピング.anm",
+                                "hash": "sha384-lzltF+K0HOqHXjuyxChnDq9nW9iS90kgO1zjailG1CcX2MPidOIkKDqTv7WIXX2P"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "version": "1.0",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/対角線クリッピング.anm",
+                                "hash": "sha384-FX0IPjFj9kYsJBLP/miMnE5jVT1QUQ2L4XydqeazEcjhFrru91ZqRut+WEwZJN4W"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "aodaruma/Parallelogram",
+            "name": "平行四辺形",
+            "overview": "アンカーを用いて、図形を平行四辺形に変形させるスクリプト",
+            "description": "アンカーを用いて、図形を平行四辺形に変形させるスクリプト。",
+            "developer": "Aodaruma",
+            "downloadURLs": [
+                "https://github.com/Aodaruma/Aodaruma-AviUtl-Script"
+            ],
+            "pageURL": "https://github.com/Aodaruma/Aodaruma-AviUtl-Script/tree/main/scripts/平行四辺形",
+            "directURL": "https://codeload.github.com/Aodaruma/Aodaruma-AviUtl-Script/zip/refs/heads/main",
+            "latestVersion": "1.01",
+            "files": [
+                { "filename": "script/aodaruma/平行四辺形.anm", "archivePath": "scripts/平行四辺形" }
+            ],
+            "releases": [
+                {
+                    "version": "1.01",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/平行四辺形.anm",
+                                "hash": "sha384-GCWSar+Q3PPy3FGlkf/mpb8h7uVxuAcf4Z7SpwYk7XCOxD5+Rt2HXYICAOhd8fm0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "version": "1.0",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/平行四辺形.anm",
+                                "hash": "sha384-7QJwoFIDRRU+VUXZloaOFDaBvhDEKq17OovxLTwTJx178XX4/sY35L3oFfvIZTVI"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "aodaruma/CutoutBordering",
+            "name": "抜き出し縁取り",
+            "overview": "対象のオブジェクトにマスクをかけて、縁取りのように見せることができるスクリプト",
+            "description": "マスクにするオブジェクトを保存して、対象のオブジェクトにマスクをかけて、縁取りのように見せることができるスクリプト。",
+            "developer": "Aodaruma",
+            "downloadURLs": [
+                "https://github.com/Aodaruma/Aodaruma-AviUtl-Script"
+            ],
+            "pageURL": "https://github.com/Aodaruma/Aodaruma-AviUtl-Script/tree/main/scripts/抜き出し縁取り",
+            "directURL": "https://codeload.github.com/Aodaruma/Aodaruma-AviUtl-Script/zip/refs/heads/main",
+            "latestVersion": "1.11",
+            "files": [
+                { "filename": "script/aodaruma/@抜き出し縁取り.anm", "archivePath": "scripts/抜き出し縁取り" }
+            ],
+            "releases": [
+                {
+                    "version": "1.11",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/@抜き出し縁取り.anm",
+                                "hash": "sha384-iFJicrKmGlEgjkLPaFEDooCLPNdvyBkVItFtQKgKbsY5qBHw1/WKuHBJQ9OX9ByT"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "version": "1.1",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/@抜き出し縁取り.anm",
+                                "hash": "sha384-Y3al771gSs0AIXqKT+RZ+NRcodl2WdxBumvq1eIQk7qevGigzaz7Cu6Ag1F88E0U"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "version": "1.0",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/@抜き出し縁取り.anm",
+                                "hash": "sha384-0Nzo8aR3ceC55uM55f35gar3XySOThuMTBDNejynwbASzfUJ+yDJHJlsFuf52YdQ"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "aodaruma/SteppedCircular",
+            "name": "段付き円形",
+            "overview": "対象のオブジェクトにマスクをかけて、縁取りのように見せることができるスクリプト",
+            "description": "マスクにするオブジェクトを保存して、対象のオブジェクトにマスクをかけて、縁取りのように見せることができるスクリプト。",
+            "developer": "Aodaruma",
+            "downloadURLs": [
+                "https://github.com/Aodaruma/Aodaruma-AviUtl-Script"
+            ],
+            "pageURL": "https://github.com/Aodaruma/Aodaruma-AviUtl-Script/tree/main/scripts/段付き円形",
+            "directURL": "https://codeload.github.com/Aodaruma/Aodaruma-AviUtl-Script/zip/refs/heads/main",
+            "latestVersion": "1.1",
+            "files": [
+                { "filename": "script/aodaruma/段付き円形.anm", "archivePath": "scripts/段付き円形" }
+            ],
+            "releases": [
+                {
+                    "version": "1.1",
+                    "integrity": {
+                        "file": [
+                            {
+                                "target": "script/aodaruma/段付き円形.anm",
+                                "hash": "sha384-V7WU3PG9U3uTD11JSsuBc7fFx4jQXtg8nCrLgFUWQ0WGDlJnx/9iRF8yWuLyHira"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}
